@@ -1,0 +1,11 @@
+streamlit
+joblib
+scikit-learn
+pandas
+numpy
+nltk
+google-api-python-client
+altair
+scipy
+matplotlib
+seaborn
